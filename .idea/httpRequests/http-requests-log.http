@@ -1,0 +1,12 @@
+GET http://localhost:8081
+
+<> 2022-12-01T095151.404.json
+
+###
+
+POST http://localhost:8081/admin?name=Iskander&email=vagizov.iskander@gmail.com&passport=45979432
+
+<> 2022-12-01T095148.404.json
+
+###
+
